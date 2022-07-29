@@ -1,12 +1,62 @@
 [
-{"Origin":"Canada","Year":"1959","Number":"5679"},
-{"Origin":"Taiwan","Year":"1959","Number":"4546"},
-{"Origin":"India","Year":"1959","Number":"3780"},
-{"Origin":"Iran","Year":"1959","Number":"2507"},
-{"Origin":"South Korea","Year":"1959","Number":"2474"},
-{"Origin":"Japan","Year":"1959","Number":"2248"},
-{"Origin":"Philippines","Year":"1959","Number":"1722"},
-{"Origin":"Mexico","Year":"1959","Number":"1356"},
-{"Origin":"Venezuela","Year":"1959","Number":"1126"},
-{"Origin":"Greece","Year":"1959","Number":"1095"}
+ {
+  "Origin": "Canada",
+  "Year": 1959,
+  "Number": 5679,
+  "Rank": 1
+ },
+ {
+  "Origin": "Taiwan",
+  "Year": 1959,
+  "Number": 4546,
+  "Rank": 2
+ },
+ {
+  "Origin": "India",
+  "Year": 1959,
+  "Number": 3780,
+  "Rank": 3
+ },
+ {
+  "Origin": "Iran",
+  "Year": 1959,
+  "Number": 2507,
+  "Rank": 4
+ },
+ {
+  "Origin": "South Korea",
+  "Year": 1959,
+  "Number": 2474,
+  "Rank": 5
+ },
+ {
+  "Origin": "Japan",
+  "Year": 1959,
+  "Number": 2248,
+  "Rank": 6
+ },
+ {
+  "Origin": "Philippines",
+  "Year": 1959,
+  "Number": 1722,
+  "Rank": 7
+ },
+ {
+  "Origin": "Mexico",
+  "Year": 1959,
+  "Number": 1356,
+  "Rank": 8
+ },
+ {
+  "Origin": "Venezuela",
+  "Year": 1959,
+  "Number": 1126,
+  "Rank": 9
+ },
+ {
+  "Origin": "Greece",
+  "Year": 1959,
+  "Number": 1095,
+  "Rank": 10
+ }
 ]

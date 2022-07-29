@@ -1,12 +1,62 @@
 [
-{"Origin":"China","Year":"2019","Number":"372532"},
-{"Origin":"India","Year":"2019","Number":"193124"},
-{"Origin":"South Korea","Year":"2019","Number":"49809"},
-{"Origin":"Saudi Arabia","Year":"2019","Number":"30957"},
-{"Origin":"Canada","Year":"2019","Number":"25992"},
-{"Origin":"Vietnam","Year":"2019","Number":"23777"},
-{"Origin":"Taiwan","Year":"2019","Number":"23724"},
-{"Origin":"Japan","Year":"2019","Number":"17554"},
-{"Origin":"Brazil","Year":"2019","Number":"16671"},
-{"Origin":"Mexico","Year":"2019","Number":"14348"}
+ {
+  "Origin": "China",
+  "Year": 2019,
+  "Number": 372532,
+  "Rank": 1
+ },
+ {
+  "Origin": "India",
+  "Year": 2019,
+  "Number": 193124,
+  "Rank": 2
+ },
+ {
+  "Origin": "South Korea",
+  "Year": 2019,
+  "Number": 49809,
+  "Rank": 3
+ },
+ {
+  "Origin": "Saudi Arabia",
+  "Year": 2019,
+  "Number": 30957,
+  "Rank": 4
+ },
+ {
+  "Origin": "Canada",
+  "Year": 2019,
+  "Number": 25992,
+  "Rank": 5
+ },
+ {
+  "Origin": "Vietnam",
+  "Year": 2019,
+  "Number": 23777,
+  "Rank": 6
+ },
+ {
+  "Origin": "Taiwan",
+  "Year": 2019,
+  "Number": 23724,
+  "Rank": 7
+ },
+ {
+  "Origin": "Japan",
+  "Year": 2019,
+  "Number": 17554,
+  "Rank": 8
+ },
+ {
+  "Origin": "Brazil",
+  "Year": 2019,
+  "Number": 16671,
+  "Rank": 9
+ },
+ {
+  "Origin": "Mexico",
+  "Year": 2019,
+  "Number": 14348,
+  "Rank": 10
+ }
 ]

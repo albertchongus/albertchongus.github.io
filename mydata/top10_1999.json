@@ -1,12 +1,62 @@
 [
-{"Origin":"China","Year":"1999","Number":"54466"},
-{"Origin":"Japan","Year":"1999","Number":"46872"},
-{"Origin":"India","Year":"1999","Number":"42337"},
-{"Origin":"South Korea","Year":"1999","Number":"41191"},
-{"Origin":"Taiwan","Year":"1999","Number":"29234"},
-{"Origin":"Canada","Year":"1999","Number":"23544"},
-{"Origin":"Indonesia","Year":"1999","Number":"11300"},
-{"Origin":"Thailand","Year":"1999","Number":"10983"},
-{"Origin":"Mexico","Year":"1999","Number":"10607"},
-{"Origin":"Turkey","Year":"1999","Number":"10100"}
+ {
+  "Origin": "China",
+  "Year": 1999,
+  "Number": 54466,
+  "Rank": 1
+ },
+ {
+  "Origin": "Japan",
+  "Year": 1999,
+  "Number": 46872,
+  "Rank": 2
+ },
+ {
+  "Origin": "India",
+  "Year": 1999,
+  "Number": 42337,
+  "Rank": 3
+ },
+ {
+  "Origin": "South Korea",
+  "Year": 1999,
+  "Number": 41191,
+  "Rank": 4
+ },
+ {
+  "Origin": "Taiwan",
+  "Year": 1999,
+  "Number": 29234,
+  "Rank": 5
+ },
+ {
+  "Origin": "Canada",
+  "Year": 1999,
+  "Number": 23544,
+  "Rank": 6
+ },
+ {
+  "Origin": "Indonesia",
+  "Year": 1999,
+  "Number": 11300,
+  "Rank": 7
+ },
+ {
+  "Origin": "Thailand",
+  "Year": 1999,
+  "Number": 10983,
+  "Rank": 8
+ },
+ {
+  "Origin": "Mexico",
+  "Year": 1999,
+  "Number": 10607,
+  "Rank": 9
+ },
+ {
+  "Origin": "Turkey",
+  "Year": 1999,
+  "Number": 10100,
+  "Rank": 10
+ }
 ]

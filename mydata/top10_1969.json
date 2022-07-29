@@ -1,12 +1,62 @@
 [
-{"Origin":"Canada","Year":"1969","Number":"13318"},
-{"Origin":"India","Year":"1969","Number":"11329"},
-{"Origin":"Taiwan","Year":"1969","Number":"8566"},
-{"Origin":"Hong Kong","Year":"1969","Number":"7202"},
-{"Origin":"Iran","Year":"1969","Number":"5175"},
-{"Origin":"Cuba","Year":"1969","Number":"4487"},
-{"Origin":"Thailand","Year":"1969","Number":"4372"},
-{"Origin":"Japan","Year":"1969","Number":"4311"},
-{"Origin":"United Kingdom","Year":"1969","Number":"4216"},
-{"Origin":"South Korea","Year":"1969","Number":"3991"}
+ {
+  "Origin": "Canada",
+  "Year": 1969,
+  "Number": 13318,
+  "Rank": 1
+ },
+ {
+  "Origin": "India",
+  "Year": 1969,
+  "Number": 11329,
+  "Rank": 2
+ },
+ {
+  "Origin": "Taiwan",
+  "Year": 1969,
+  "Number": 8566,
+  "Rank": 3
+ },
+ {
+  "Origin": "Hong Kong",
+  "Year": 1969,
+  "Number": 7202,
+  "Rank": 4
+ },
+ {
+  "Origin": "Iran",
+  "Year": 1969,
+  "Number": 5175,
+  "Rank": 5
+ },
+ {
+  "Origin": "Cuba",
+  "Year": 1969,
+  "Number": 4487,
+  "Rank": 6
+ },
+ {
+  "Origin": "Thailand",
+  "Year": 1969,
+  "Number": 4372,
+  "Rank": 7
+ },
+ {
+  "Origin": "Japan",
+  "Year": 1969,
+  "Number": 4311,
+  "Rank": 8
+ },
+ {
+  "Origin": "United Kingdom",
+  "Year": 1969,
+  "Number": 4216,
+  "Rank": 9
+ },
+ {
+  "Origin": "South Korea",
+  "Year": 1969,
+  "Number": 3991,
+  "Rank": 10
+ }
 ]
