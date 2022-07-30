@@ -12,6 +12,7 @@ let height = 600
 let padding = 60
 
 let svg = d3.select('svg')
+let tooltip = d3.select('#tooltip')
 
 let drawCanvas = () => {
     svg.attr('width', width)
@@ -48,7 +49,15 @@ let drawRects = () => {
         .attr('width', 50)
         .attr('stroke', 'black')
         .attr('fill', '#69a3b2')
-
+        .on('mouseover', (item) => {
+            tooltip.transition()
+                .style('visibility', 'visible')
+            tooltip.text('Year 1949: No.1 Canada 4,362')
+        })
+        .on('mouseout', (item) => {
+            tooltip.transition()
+                .style('visibility', 'hidden')
+        })
 
 }
 
@@ -71,23 +80,19 @@ let genAxes = () => {
 
 }
 
-/* let genText = () => {
+let genText = () => {
 
     svg.selectAll('text.bar')
             .data(values)
             .enter()
             .append('text')
-            .attr('x', (item) => {
-                return xScale(item['Origin']) + 28
-            })
-            .attr('y', (item) => {
-                return yScale(item['Number']) -10
-            })
-            .text((item) => {
-                return item['Number']
-            })
+            .attr('x', 650)
+            .attr('y', 120)
+            .text('World Total: 48,486')
+            .style('font-size', '30px')
+            .style('font-weight', 900)
 
-} */
+}
 
 let genTitle = () => {
 
@@ -105,7 +110,7 @@ let genAnnotation = () => {
 
     const annotations = [
         {
-          note: { label: "No.1: Canada Number: 5679"  },
+          note: { label: "No.1: Canada Number: 5,679"  },
           color: ["#EF5B0C"],
           x: 80,
           y: 75,
@@ -136,6 +141,7 @@ req.onload = () => {
     genScales()
     drawRects()
     genAxes()
+    genText()
     genTitle()
     genAnnotation()
 }
